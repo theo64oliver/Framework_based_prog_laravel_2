@@ -21,7 +21,7 @@ By clicking on the "Manage Role" menu, we arrive on this page where we can modif
 
 <br></br>
 ![image](https://github.com/theo64oliver/Framework_based_prog_laravel_2/assets/94619213/f9cd0f9c-0d41-4b95-8fd3-b4890edd8c98)
-Same by clicking on the "Manage Product", we can see al the products we have.
+Same by clicking on the "Manage Product", we can see al the products we have (none in this case).
 
 <br></br>
 ![image](https://github.com/theo64oliver/Framework_based_prog_laravel_2/assets/94619213/79b62fe4-811a-4a5a-a27b-238d3a4d9e09)
@@ -34,6 +34,3 @@ Once the person registered, we can see it has been added to the User tab.
 <br></br>
 ![image](https://github.com/theo64oliver/Framework_based_prog_laravel_2/assets/94619213/2dd5c2ed-7438-464d-b658-d1c1093a71c7)
 If you just registered and you don't have the admin rights, here is the result you will have if ou click on one of the "Manage" menu.
-
-<br></br>
-![image](https://github.com/theo64oliver/Framework_based_prog_laravel_2/assets/94619213/bff7acb3-1acf-42ce-8c32-aeeebaf0e96e)
